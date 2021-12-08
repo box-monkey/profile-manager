@@ -1,0 +1,22 @@
+{
+  "name": "inquirer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "\"echo \\\"error: no test spe\"echo \\\"Error: no test specified\\\" && exit 1\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/box-monkey/profile-manager.git"
+  },
+  "author": "box-monkey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/box-monkey/profile-manager/issues"
+  },
+  "homepage": "https://github.com/box-monkey/profile-manager#readme",
+  "dependencies": {
+    "inquirer": "^8.2.0"
+  }
+}
